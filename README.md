@@ -43,14 +43,9 @@ This is very simple installation, just fallow the installer instruction.
 Make sure you downloaded correct version. Even if any error during building then read the message and download package accordingly.
 
 ### Steps for installing Git
-Step 1. Install git software, it simple. 
-Step 2.  Set the PATH **C:\Program Files\Git\bin** in environment variable. 
-Step 3. Very it by giving `git --version` command on terminal. 
-
-
-
-If git not installed properly then you will get error like this
-
+Step 1. Install git software, it simple.   
+Step 2.  Set the PATH **C:\Program Files\Git\bin** in environment variable.   
+Step 3. Very it by giving `git --version` command on terminal.   
 
 ## ERRORS
 
